@@ -1,0 +1,96 @@
+CV
+==
+
+## Resumo 
+Engenheira de software com mais de quatro anos de experiência em desenvolvimento de software (trabalhando com times remotos) desde a concepção até a conclusão. Até o momento adquiri conhecimentos técnicos com um número de linguagens incluindo Php, JavaScript, Html e Python. Sou uma pessoa sociável, enérgica, com diversas habilidades e facilidades em estabelecer uma comunição efetiva com o time e com todas as pessoas que interagir.
+Gosto de participar de comunidades e eventos da área.
+Entre meus conhecimentos técnicos também se incluem:
+Java, J2EE, Arduino, C++, CodeIgniter, CakePhp, Django, NodeJs, JSON, XML, CSS, HTML, Nginx, Apache, SQL,Redis, MongoDB, MySQL, PostgreSql, Oracle, AWS, AngularJS, Web Services, Linux, Scrum, Git, MVC e TDD.
+
+
+## Experiência Profissional
+
+### Desenvolvedora Backend, Telefônica ­ Vivo
+#### Centro de Inovação, São Paulo — Junho 2011 ­ Janeiro 2014
+O Guia Vivo Tv é um dos projetos de cobertura internacional na área de vídeo do Centro de Inovação da Telefônica. Guiado pelas práticas ágeis do Scrum atuei desde a concepção à implantação do produto, assim como no desenvolvimento de ferramentas administrativas para o apoio de gerenciamento de conteúdo editorial para o mesmo. Além de utilizar MongoDB, NodeJs e GIT como principais tecnologias no desenvolvimento de API's para integrar o site web e aplicativos mobiles das plataformas android e ios. Também estive envolvida na área de qualidade com planejamento e execução de testes usando o Jira e colaborei com teste de carga e estress usando JMeter.
+_Atividades_
+ * Responsável pela migração de API's Rest com PHP e MySql para NodeJs e MongoDB. Tanto na restruturação da informação quanto na melhoria do desempenho dos serviços.
+ * Responsável pelo deploy em produção das ferramentas internas administrativas e API's usando instancias da Amazon e Git.
+ * Suporte para versão IPad do aplicativo Guia Vivo TV como evolução do Teste A/B desenvolvido com tecnologias Python, Django e HTML responsivo.
+ * Trabalho em equipe com as áreas de Qualidade e UX.
+ * Php, MySql, MongoDB, NodeJs, Express, JQuery, Ajax,HTML, Json, Rest,Css, Git, Ec2, GitHub, Python, Django, Xml, OSX, S3, Scrum,Xp.
+
+### Analista Programadora Jr., MercadoLivre
+#### Depto. de Marketing, Santana de Parnaíba — Setembro 2010 ­ Junho 2011
+O MercadoLivre é uma companhia de tecnologia que oferece soluções de comércio eletrônico para que qualquer pessoa ou empresa possa comprar, vender, pagar e anunciar de tudo por meio da Internet.
+_Atividades_
+ * Responsável pelo desenvolvimento e criação de aplicações web para intranet e para o Departamento de Marketing Online.
+ * Suporte e refactoring dos sistemas existentes além de recomendar soluções e alternativas para automatizar processos e definir aplicações.
+ * Desenho e manutenção de base de dados.
+ * Trabalho em equipe e interação com outros responsáveis de diversas áreas do Brasil.
+ * Php, MySql, Css, JavaScript, CodeIgniter, Ajax, Jquery, Xml, Tableless, Photoshop, Ferramentas CMS e integração com API (Facebook).
+
+### WebDesigner, D.A. Multicomunicação
+#### Depto. de Criação, São Paulo — junho 2010 ­ Agosto 2010
+Multicomunição é uma agencia de publicidade que presta serviços de criação de web sites, e­commerce, consultoria, assessoria e apoio a conveções e eventos.
+_Atividades_
+ * Responsável pelo analise e desenvolvimento de web sites. Customização de sites basedos em Joomla e Wordpress.
+ * Administração de banco de dados.
+ * Php, JavaScript, CSS, CodeIgniter, Jquery,MSQL
+
+
+## Experiência Internacional
+
+### Monitora (Voluntária), CoderDojoDublin
+#### Dublin, Irlanda — Fevereiro 2014 ­ Abril 2014
+CoderDojo é um movimento aberto e sem fins lucrativos para ensinar jovens dos 8 aos 18 a programar.
+_Atividades_
+ * Colaborar na organização durante os eventos realizados.
+ * Dar assistência nas ferramentas e lógica de programação para projetos realizados com html, css, javascript, sublime e notepad.
+
+### Desenvolvedora de Software (Voluntária), Lab­InfSis
+#### Cochabamba, Bolivia — Julho 2007 ­ Dezembro 2007
+O Laboratório de Desenvolvimento de Software é parte do Laboratorio de Computação do Depto. de Matemática e da Faculdade de Ciências e Tecnologia.
+_Atividades_
+ * Colaborar no análise de requisitos e desenvolvimento de software do Sistema Interno do Laboratório usando Java, Hibernate, Subversion, Eclipse.
+
+
+## Formação Acadêmica
+
+### Universidad Mayor de San Simon
+#### Licenciatura em Engenharia de Sistemas — 2003-­2009
+Graduada pela Facultad de Ciencias y Tecnología da Universidad Mayor de San Simón, Cochabamba ­ Bolivia .
+SENAI
+
+### Mantenedor de Sistemas Eletroeletronicos — 2001-­2002
+#### Curso de extensão profissionalizante do Ensino Medio.
+
+## Outros Cursos e Seminários
+
+* MongoDB for DBAs – Novembro 2013.
+_MongoDb University, MongoDB 2.4, 14,75 hrs._
+* MongoDB for Node.js Developers – Outubro 2013.
+_MongoDb University, MongoDB 2.4, 12,25 hrs._
+*Trilha NoSqL – Julho 2013.
+_Universidade Anhembi Morumbi, The Developers Conference 2013, 8 hrs._
+*Trilha Arduino – Julho 2013.
+_Universidade Anhembi Morumbi, The Developers Conference 2013, 8 hrs._
+*Inovação Estratégica – Novembro 2012
+_Hotel Transamérica, 5o Open Innovation Seminar, 4 hrs_
+*Treinamento de Scrum e Práticas Ágeis – Agosto 2011
+_Centro de Inovação da Telefônica, 12 hrs._
+*Programação guiada por testes – Agosto 2007
+_Universidad Mayor de San Simón, Depto. de Informática Sistemas, 10 hrs._
+
+## Idiomas
++ Fluência em inglês (nível intermediário para leitura, conversação e escrita) Três meses de residência em Dublin ­ Irlanda (Fevereiro 2014 ­ Abril 2014), em intercâmbio.
+
++ Fluência em espanhol (nível avançado para leitura, conversação e escrita) 7 anos de residência em Cochabamba ­ Bolivia (Janeiro 2003 ­ Janeiro 2010).
+
++ Português Nativo.
+
+## Links
++ http://www.linkedin.com/in/karenmikaela/pt
++ https://github.com/karen-mikaela
++ https://twitter.com/karen_mikaela
++ gtalk: karen.mikaela@gmail.com
